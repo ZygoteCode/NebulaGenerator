@@ -1,0 +1,22 @@
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\NebulaGenerator.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\NebulaGenerator.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\BrotliSharpLib.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\CapMonsterCloud.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\Guna.UI.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\Leaf.xNet.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\MetroSuite 2.0.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\Newtonsoft.Json.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\Siticone.UI.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\websocket-sharp-customheaders.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\BrotliSharpLib.xml
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\Newtonsoft.Json.xml
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\obj\Release\MainForm.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\obj\Release\NebulaGenerator.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\obj\Release\NebulaGenerator.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\obj\Release\NebulaGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\obj\Release\NebulaGenerator.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\obj\Release\NebulaGenerator.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaGenerator\obj\Release\NebulaGenerator.csproj.AssemblyReference.cache
